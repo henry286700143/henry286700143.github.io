@@ -6,14 +6,17 @@
   <title>hadoop本机（window）运行配置 | henry&#39;s blog</title>
   <meta name="author" content="henry">
   
-  <meta name="description" content="##hadoop本机（window）运行配置
-
-将hadoop包解压后复制到硬盘上（本人采用的是hadoop-2.7.1）
+  <meta name="description" content="将hadoop包解压后复制到硬盘上（本人采用的是hadoop-2.7.1）
 
 配置window环境变量：
 
 HADOOP_HOME：将hadoop目录添加至系统变量中，命名为HADOOP_HOME
-path：将%HADOOP_HOME%/bin添加至用">
+path：将%HADOOP_HOME%/bin添加至用户变量的PATH中
+
+
+
+
+修改计算机名称：  ">
   
   
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -130,8 +133,7 @@ path：将%HADOOP_HOME%/bin添加至用">
 					
 
 					<div class="article-content">
-						<p>##hadoop本机（window）运行配置</p>
-<ol>
+						<ol>
 <li><p>将hadoop包解压后复制到硬盘上（本人采用的是hadoop-2.7.1）</p>
 </li>
 <li><p>配置window环境变量：</p>
@@ -146,11 +148,11 @@ path：将%HADOOP_HOME%/bin添加至用">
 </li>
 <li><p>打开C:\Windows\System32\drivers\etc目录，修改hosts文件，增加主机名到对应hadoop集群每个机器的IP地址的映射，实现DNS的功能</p>
 </li>
-<li><p>将 hadoopbin.zip <a href="http://pan.baidu.com/s/1bpnD6kJ" target="_blank" rel="external">^hadoopbin</a> 包中的文件替换掉hadoop-2.7.1里bin中的文件。这是因为原装的bin中缺少window运行所需的exe，dll等文件。</p>
+<li><p>将 hadoopbin.zip <a href="http://pan.baidu.com/s/1bpnD6kJ" target="_blank" rel="external">^下载地址1</a> 包中的文件替换掉hadoop-2.7.1里bin中的文件。这是因为原装的bin中缺少window运行所需的exe，dll等文件。</p>
 </li>
 <li><p>将 hadoop\bin\hadoop.dll 文件放在C:\Windows\System32\目录下，不然运行时会报错</p>
 </li>
-<li><p>将 eclipse的hadoop插件安装包.zip <a href="http://pan.baidu.com/s/1c2rFnQ4" target="_blank" rel="external">^eclipse</a> 中的jar包复制到eclipse的plugins目录下</p>
+<li><p>将 eclipse的hadoop插件安装包.zip <a href="http://pan.baidu.com/s/1c2rFnQ4" target="_blank" rel="external">^下载地址2</a> 中的jar包复制到eclipse的plugins目录下</p>
 </li>
 <li><p>重启电脑，打开eclipse，查看JAVA是否对应的是JDK8版本；切换到hadoop开发视图，配置hadoop location，可以打开远程目录。</p>
 </li>
@@ -160,7 +162,7 @@ path：将%HADOOP_HOME%/bin添加至用">
 </li>
 </ol>
 <p>搞定，收工~~</p>
-<p>文中所提及的文件下载处（hadoop包请大家自行下载吧，这里就不提供啦）：</p>
+<p>文中所提及的文件下载链接请点击注脚（hadoop包请大家自行下载吧，这里就不提供啦）</p>
 
 					</div>
 
