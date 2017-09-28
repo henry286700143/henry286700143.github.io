@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+  <url>
+    <loc>http://yoursite.com/2017/06/01/tomcat%E5%90%AF%E5%8A%A8%E6%8A%A5%E9%94%99%EF%BC%9AFailed%20to%20start%20component%20%5BStandardServer%5B8005%5D%5D/</loc>
+    <lastmod>2017-06-09T07:44:11.518Z</lastmod>
+    <data>
+        <display>
+        <title>tomcat启动报错：Failed to start component</title>
+        <pubTime>2017-06-01T12:10:47.000Z</pubTime>
+        
+        <tag>bugs</tag>
+         
+        <tag>tomcat</tag>
+         
+         
+           
+             
+              <breadCrumb title="tomcat" url="http://yoursite.com/categories/tomcat/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2016/02/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</loc>
+    <lastmod>2017-06-09T07:44:08.762Z</lastmod>
+    <data>
+        <display>
+        <title>我的第一篇博文</title>
+        <pubTime>2016-02-03T09:03:27.000Z</pubTime>
+        
+        <tag>others</tag>
+         
+         
+           
+             
+              <breadCrumb title="others" url="http://yoursite.com/categories/others/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/02/16/hadoop%E6%9C%AC%E6%9C%BA%EF%BC%88window%EF%BC%89%E8%BF%90%E8%A1%8C%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2017-06-09T07:44:06.059Z</lastmod>
+    <data>
+        <display>
+        <title>hadoop本机（window）运行配置</title>
+        <pubTime>2017-02-16T13:38:56.000Z</pubTime>
+        
+        <tag>Hadoop</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hadoop" url="http://yoursite.com/categories/Hadoop/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/06/05/hive%E4%B8%ADleft%20outer%20join%20%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2017-06-09T07:43:56.210Z</lastmod>
+    <data>
+        <display>
+        <title>Hive使用LEFT OUTER JOIN 实现not in 子句</title>
+        <pubTime>2017-06-05T10:38:05.000Z</pubTime>
+        
+        <tag>Hive</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hive" url="http://yoursite.com/categories/Hive/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+</urlset>

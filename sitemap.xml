@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2017-06-09T07:45:34.738Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/06/01/tomcat%E5%90%AF%E5%8A%A8%E6%8A%A5%E9%94%99%EF%BC%9AFailed%20to%20start%20component%20%5BStandardServer%5B8005%5D%5D/</loc>
+    
+    <lastmod>2017-06-09T07:44:11.518Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/02/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</loc>
+    
+    <lastmod>2017-06-09T07:44:08.762Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/02/16/hadoop%E6%9C%AC%E6%9C%BA%EF%BC%88window%EF%BC%89%E8%BF%90%E8%A1%8C%E9%85%8D%E7%BD%AE/</loc>
+    
+    <lastmod>2017-06-09T07:44:06.059Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/06/05/hive%E4%B8%ADleft%20outer%20join%20%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
+    
+    <lastmod>2017-06-09T07:43:56.210Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2017-06-09T02:37:04.259Z</lastmod>
+    
+  </url>
+  
+</urlset>
